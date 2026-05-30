@@ -45,7 +45,7 @@ AWS (Certified AI Practitioner) | Scikit-learn | NLP
 
 ## 📜 Certifications
 - 🏅 AWS Certified AI Practitioner (AIF-C01)
-- 🏅 SQL Basics – HackerRank
+- 🏅 SQL (Advanced) – HackerRank
 - 🏅 Python for Data Science – Cognitive Class
 
 ---
